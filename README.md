@@ -1,2 +1,2 @@
 # Unex26
-repository containing the exercises for unex2025
+Repository created for the Unix2026 workshop.
